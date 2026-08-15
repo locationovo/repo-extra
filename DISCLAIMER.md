@@ -1,6 +1,6 @@
 # 免责声明
 
-本仓库（以下简称"本辅助仓库"）是 [locationovo/repo](https://github.com/locationovo/repo){target="_blank"}（以下简称"主仓库"）的辅助源。
+本仓库（以下简称"本辅助仓库"）是 [locationovo/repo](https://github.com/locationovo/repo)（以下简称"主仓库"）的辅助源。
 
 ## 规则遵循
 
